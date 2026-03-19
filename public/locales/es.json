@@ -1,0 +1,19 @@
+{
+  "Search": {
+    "placeholder": "Buscar documentación...",
+    "noResults": "No se encontraron resultados para \"{query}\""
+  },
+  "Navigation": {
+    "editPage": "Editar esta página en GitHub",
+    "feedback": "¿Fue útil esta página?",
+    "submit": "Enviar",
+    "success": "¡Gracias por tus comentarios!",
+    "previous": "Anterior",
+    "next": "Siguiente"
+  },
+  "Common": {
+    "language": "Idioma",
+    "version": "Versión",
+    "theme": "Tema"
+  }
+}
